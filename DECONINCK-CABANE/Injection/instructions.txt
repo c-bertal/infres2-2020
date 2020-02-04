@@ -1,0 +1,10 @@
+    - Mettre l'ensemble du dossier à la base de votre serveur
+    - Vous y accédez via la root /
+
+L'objectif est de trouver le couple identifiant/mot de passe qui permet de se connecter.
+Quand la connexion est validée, le couple identifiant/mot de passe est affiché avec un message de succès.
+
+    - la contrainte : ne pas regarder le code source.
+
+
+Pour valider l'attaque, une démonstration sera demandée.
